@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.2.0'
+
+gem 'byebug'
+gem 'rake'
+gem 'aws-kclrb', path: '~/workspace/amazon-kinesis-client-ruby/'
